@@ -21,3 +21,5 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-07-30 01:30 START critic-doc   spawner=stack agent=acritic- sess=f34ac4a3 · 
 - 2026-07-30 01:30 START auditor-scope spawner=stack agent=aauditor sess=f34ac4a3 · 
 - 2026-07-30 01:37 STOP  critic-doc   spawner=stack agent=acritic- sess=f34ac4a3 · 7м · ok
+- 2026-07-30 01:40 STOP  breaker-ssh  spawner=stack agent=abreaker sess=f34ac4a3 · 10м · ok
+- 2026-07-30 01:41 STOP  auditor-scope spawner=stack agent=aauditor sess=f34ac4a3 · 11м · ok
