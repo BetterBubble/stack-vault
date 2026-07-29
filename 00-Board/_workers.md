@@ -39,3 +39,4 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-07-30 02:33 START breaker-ssh  spawner=stack agent=abreaker sess=f34ac4a3 · 
 - 2026-07-30 02:37 STOP  ?            spawner=stack agent=a51843f2 sess=f34ac4a3 ·  · ok
 - 2026-07-30 02:38 STOP  breaker-ssh  spawner=stack agent=abreaker sess=f34ac4a3 · 5м · ok
+- 2026-07-30 02:46 START breaker-ssh  spawner=stack agent=abreaker sess=f34ac4a3 · 

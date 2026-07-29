@@ -3,7 +3,7 @@ title: Где стоим по работе над стеком
 type: note
 status: current
 created: 2026-07-26 02:14
-updated: 2026-07-30 04:10
+updated: 2026-07-30 04:25
 permalink: stack/sessions/stack-state
 tags:
 - state
@@ -18,7 +18,7 @@ tags:
 ## Где стоим (2026-07-30, ночь)
 
 **Одиннадцать пунктов входа Президента разобраны: десять закрыты, один — работа в рабочем контуре.**
-Доктор — **362 ok** (было 228), один провал, и он снимается командой применения (ниже).
+Доктор — **365 ok** (было 228), один провал, и он снимается командой применения (ниже).
 Классификатор чтения серверов пережил **четыре круга слома** (99, 122, 101 и 81 форма) плюс мою собственную
 пробу лексера: 18 классов дыр закрыто, из них 6 внесла сама починка предыдущих — см. [[tech-debt]].
 Ночной пайплайн 109 ok. Ссылки: в памяти стека 0 битых, **в рабочем vault 4** — это рабочий контур,
@@ -82,7 +82,7 @@ git -C ~/.claude push origin main && git -C ~/claude-stack push origin main \
 ## Проверка при холодном старте
 
 ```bash
-bash ~/.claude/hooks/stack-doctor.sh      # 362 ok; провал про settings.local.json = пакет не применён
+bash ~/.claude/hooks/stack-doctor.sh      # 365 ok; провал про settings.local.json = пакет не применён
 bash ~/.claude/hooks/check-links.sh                          # память стека: битых 0
 bash ~/.claude/hooks/check-links.sh --vault ~/tacticum-vault  # рабочий vault: битых 4 (рабочий контур)
 node ~/.claude/workflows/test-autonomous-feature.js   # 109 ok
