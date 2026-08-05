@@ -101,3 +101,13 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-05 23:13 STOP  Explore      spawner=stack agent=a1fddfe3 sess=bcd9aeb3 · 0м · ok
 - 2026-08-05 23:18 STOP  mcp-doctor   spawner=stack agent=amcp-doc sess=bcd9aeb3 · 22м · ok
 - 2026-08-05 23:19 STOP  worker-log-fix spawner=stack agent=aworker- sess=bcd9aeb3 · 22м · ok
+- 2026-08-05 23:23 STOP  ?7ee16e      spawner=stack agent=a7ee16ea sess=bcd9aeb3 · START? · ok
+- 2026-08-05 23:25 STOP  ?TEST12      spawner=stack agent=aTEST123 sess=sTEST456 · START? · ok
+- 2026-08-05 23:27 STOP  ?49b5ce      spawner=stack agent=a49b5ceb sess=bcd9aeb3 · START? · ok
+- 2026-08-05 23:44 START breaker-ssh-direct spawner=stack agent=abreaker sess=bcd9aeb3 · 
+- 2026-08-05 23:44 START research-orchestration spawner=stack agent=aresearc sess=bcd9aeb3 · 
+- 2026-08-05 23:45 START research-guardrails spawner=stack agent=aresearc sess=bcd9aeb3 · 
+- 2026-08-05 23:56 STOP  research-orchestration spawner=stack agent=aresearc sess=bcd9aeb3 · 11м · ok
+- 2026-08-05 23:57 STOP  research-guardrails spawner=stack agent=aresearc sess=bcd9aeb3 · 12м · ok
+- 2026-08-05 23:58 STOP  breaker-ssh-direct spawner=stack agent=abreaker sess=bcd9aeb3 · 14м · ok
+- 2026-08-05 23:59 START critic-plan-approval spawner=stack agent=acritic- sess=bcd9aeb3 · 
