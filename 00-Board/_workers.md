@@ -50,3 +50,15 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-07-30 03:10 START breaker-ssh  spawner=stack agent=abreaker sess=f34ac4a3 · 
 - 2026-07-30 03:14 STOP  breaker-ssh  spawner=stack agent=abreaker sess=f34ac4a3 · 4м · ok
 - 2026-07-30 03:20 STOP  ?            spawner=stack agent=a0358c49 sess=f34ac4a3 ·  · ok
+- 2026-07-30 04:26 STOP  ?            spawner=stack agent=aa2de08b sess=f34ac4a3 ·  · ok
+- 2026-07-30 04:30 STOP  ?            spawner=stack agent=a212842e sess=f34ac4a3 ·  · ok
+- 2026-08-05 20:22 START friction-audit spawner=stack agent=africtio sess=bcd9aeb3 · 
+- 2026-08-05 20:22 START usage-audit  spawner=stack agent=ausage-a sess=bcd9aeb3 · 
+- 2026-08-05 20:22 START server-research spawner=stack agent=aserver- sess=bcd9aeb3 · 
+- 2026-08-05 20:23 START mobile-sessions spawner=stack agent=amobile- sess=bcd9aeb3 · 
+- 2026-08-05 20:23 START claude-code-guide spawner=stack agent=ad6bd1dc sess=bcd9aeb3 · 
+- 2026-08-05 20:25 STOP  claude-code-guide spawner=stack agent=ad6bd1dc sess=bcd9aeb3 · 2м · ok
+- 2026-08-05 20:25 STOP  mobile-sessions spawner=stack agent=amobile- sess=bcd9aeb3 · 2м · ok
+- 2026-08-05 20:31 STOP  server-research spawner=stack agent=aserver- sess=bcd9aeb3 · 9м · ok
+- 2026-08-05 20:33 STOP  friction-audit spawner=stack agent=africtio sess=bcd9aeb3 · 11м · ok
+- 2026-08-05 20:33 STOP  usage-audit  spawner=stack agent=ausage-a sess=bcd9aeb3 · 11м · ok
