@@ -148,3 +148,4 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-06 01:39 STOP  ?918daa      spawner=stack agent=a918daa0 sess=bcd9aeb3 · START? · ok
 - 2026-08-06 01:40 START memory-probe-3 spawner=stack agent=amemory- sess=bcd9aeb3 · 
 - 2026-08-06 01:41 STOP  memory-probe-3 spawner=stack agent=amemory- sess=bcd9aeb3 · 1м · ok
+- 2026-08-06 01:44 STOP  ?b032bb      spawner=stack agent=ab032bbb sess=bcd9aeb3 · START? · ok
