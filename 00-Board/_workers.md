@@ -111,3 +111,4 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-05 23:57 STOP  research-guardrails spawner=stack agent=aresearc sess=bcd9aeb3 · 12м · ok
 - 2026-08-05 23:58 STOP  breaker-ssh-direct spawner=stack agent=abreaker sess=bcd9aeb3 · 14м · ok
 - 2026-08-05 23:59 START critic-plan-approval spawner=stack agent=acritic- sess=bcd9aeb3 · 
+- 2026-08-06 00:06 STOP  critic-plan-approval spawner=stack agent=acritic- sess=bcd9aeb3 · 7м · ok
