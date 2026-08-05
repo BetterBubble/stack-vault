@@ -112,3 +112,4 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-05 23:58 STOP  breaker-ssh-direct spawner=stack agent=abreaker sess=bcd9aeb3 · 14м · ok
 - 2026-08-05 23:59 START critic-plan-approval spawner=stack agent=acritic- sess=bcd9aeb3 · 
 - 2026-08-06 00:06 STOP  critic-plan-approval spawner=stack agent=acritic- sess=bcd9aeb3 · 7м · ok
+- 2026-08-06 00:21 START workflow-subagent spawner=stack agent=a4f8ab95 sess=bcd9aeb3 · 
