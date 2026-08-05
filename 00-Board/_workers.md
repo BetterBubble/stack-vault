@@ -17,6 +17,17 @@ START без STOP = воркер не вернулся; повисших пок�
 Содержательный результат воркер кладёт отдельной заметкой на доску,
 здесь только линия времени.
 
+Пометки в строках. `?<id>` на месте типа = харнес не прислал тип воркера.
+`START?` на месте длительности = у этого STOP нет парного START в журнале.
+Голого `?` формат больше не пишет: раньше он означал сразу две разные поломки.
+События SubagentStop, которые вообще не про воркера (харнес присылает такие на
+конце хода лида), в журнал не попадают — их счётный след в
+`~/.claude/logs/worker-hook-noise.log`.
+
+Строки `STOP ?` до 2026-08-05 включительно — это те самые события конца хода,
+а не пропавшие воркеры; разбор в `worker-log-fix-2026-08-05.md`. История не
+переписывается, поэтому они остаются на месте.
+
 - 2026-07-30 01:30 START breaker-ssh  spawner=stack agent=abreaker sess=f34ac4a3 · 
 - 2026-07-30 01:30 START critic-doc   spawner=stack agent=acritic- sess=f34ac4a3 · 
 - 2026-07-30 01:30 START auditor-scope spawner=stack agent=aauditor sess=f34ac4a3 · 
@@ -74,3 +85,17 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-05 22:15 STOP  ?            spawner=stack agent=ab1f83f1 sess=bcd9aeb3 ·  · ok
 - 2026-08-05 22:19 STOP  ?            spawner=stack agent=a4c6d1f0 sess=bcd9aeb3 ·  · ok
 - 2026-08-05 22:33 STOP  ?            spawner=stack agent=a92660cf sess=bcd9aeb3 ·  · ok
+- 2026-08-05 22:56 START mcp-doctor   spawner=stack agent=amcp-doc sess=bcd9aeb3 · 
+- 2026-08-05 22:56 START commands-revive spawner=stack agent=acommand sess=bcd9aeb3 · 
+- 2026-08-05 22:57 START worker-log-fix spawner=stack agent=aworker- sess=bcd9aeb3 · 
+- 2026-08-05 22:57 START verdict-serena spawner=stack agent=averdict sess=bcd9aeb3 · 
+- 2026-08-05 23:01 START general-purpose spawner=stack agent=a8a3d4b2 sess=bcd9aeb3 · 
+- 2026-08-05 23:01 START general-purpose spawner=stack agent=ad9a89d5 sess=bcd9aeb3 · 
+- 2026-08-05 23:01 STOP  general-purpose spawner=stack agent=a8a3d4b2 sess=bcd9aeb3 · 0м · ok
+- 2026-08-05 23:01 STOP  general-purpose spawner=stack agent=ad9a89d5 sess=bcd9aeb3 · 0м · ok
+- 2026-08-05 23:02 STOP  verdict-serena spawner=stack agent=averdict sess=bcd9aeb3 · 5м · ok
+- 2026-08-05 23:10 STOP  commands-revive spawner=stack agent=acommand sess=bcd9aeb3 · 14м · ok
+- 2026-08-05 23:13 START general-purpose spawner=stack agent=a4f1ae94 sess=bcd9aeb3 · 
+- 2026-08-05 23:13 START Explore      spawner=stack agent=a1fddfe3 sess=bcd9aeb3 · 
+- 2026-08-05 23:13 STOP  general-purpose spawner=stack agent=a4f1ae94 sess=bcd9aeb3 · 0м · ok
+- 2026-08-05 23:13 STOP  Explore      spawner=stack agent=a1fddfe3 sess=bcd9aeb3 · 0м · ok
