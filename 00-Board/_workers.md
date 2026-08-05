@@ -138,3 +138,4 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-06 00:49 STOP  controller   spawner=stack agent=a85a72b2 sess=bcd9aeb3 · 3м · ok
 - 2026-08-06 00:49 START workflow-subagent spawner=stack agent=aca2f88e sess=bcd9aeb3 · 
 - 2026-08-06 00:53 STOP  workflow-subagent spawner=stack agent=aca2f88e sess=bcd9aeb3 · 4м · ok
+- 2026-08-06 01:02 STOP  ?2f16ef      spawner=stack agent=a2f16ef9 sess=bcd9aeb3 · START? · ok
