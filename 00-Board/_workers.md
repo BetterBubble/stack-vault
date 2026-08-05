@@ -113,3 +113,28 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-05 23:59 START critic-plan-approval spawner=stack agent=acritic- sess=bcd9aeb3 · 
 - 2026-08-06 00:06 STOP  critic-plan-approval spawner=stack agent=acritic- sess=bcd9aeb3 · 7м · ok
 - 2026-08-06 00:21 START workflow-subagent spawner=stack agent=a4f8ab95 sess=bcd9aeb3 · 
+- 2026-08-06 00:23 START verify-night spawner=stack agent=averify- sess=bcd9aeb3 · 
+- 2026-08-06 00:23 STOP  workflow-subagent spawner=stack agent=a4f8ab95 sess=bcd9aeb3 · 2м · ok
+- 2026-08-06 00:24 START workflow-subagent spawner=stack agent=a66d8eae sess=bcd9aeb3 · 
+- 2026-08-06 00:24 STOP  workflow-subagent spawner=stack agent=a66d8eae sess=bcd9aeb3 · 0м · ok
+- 2026-08-06 00:27 START workflow-subagent spawner=stack agent=a021ce13 sess=bcd9aeb3 · 
+- 2026-08-06 00:27 STOP  workflow-subagent spawner=stack agent=a021ce13 sess=bcd9aeb3 · 0м · ok
+- 2026-08-06 00:27 START implementer  spawner=stack agent=a539c1b6 sess=bcd9aeb3 · 
+- 2026-08-06 00:30 START critic-plan-approval spawner=stack agent=acritic- sess=bcd9aeb3 · 
+- 2026-08-06 00:31 STOP  implementer  spawner=stack agent=a539c1b6 sess=bcd9aeb3 · 4м · ok
+- 2026-08-06 00:31 START verifier     spawner=stack agent=ad3f0da6 sess=bcd9aeb3 · 
+- 2026-08-06 00:32 STOP  critic-plan-approval spawner=stack agent=acritic- sess=bcd9aeb3 · 2м · ok
+- 2026-08-06 00:34 START critic-plan-approval spawner=stack agent=acritic- sess=bcd9aeb3 · 
+- 2026-08-06 00:35 STOP  verifier     spawner=stack agent=ad3f0da6 sess=bcd9aeb3 · 4м · ok
+- 2026-08-06 00:35 START controller   spawner=stack agent=abfdd799 sess=bcd9aeb3 · 
+- 2026-08-06 00:38 STOP  critic-plan-approval spawner=stack agent=acritic- sess=bcd9aeb3 · 4м · ok
+- 2026-08-06 00:40 STOP  controller   spawner=stack agent=abfdd799 sess=bcd9aeb3 · 5м · ok
+- 2026-08-06 00:40 START implementer  spawner=stack agent=ab4d05f2 sess=bcd9aeb3 · 
+- 2026-08-06 00:43 STOP  implementer  spawner=stack agent=ab4d05f2 sess=bcd9aeb3 · 3м · ok
+- 2026-08-06 00:43 START verifier     spawner=stack agent=a0aba129 sess=bcd9aeb3 · 
+- 2026-08-06 00:45 STOP  verify-night spawner=stack agent=averify- sess=bcd9aeb3 · 22м · ok
+- 2026-08-06 00:46 STOP  verifier     spawner=stack agent=a0aba129 sess=bcd9aeb3 · 3м · ok
+- 2026-08-06 00:46 START controller   spawner=stack agent=a85a72b2 sess=bcd9aeb3 · 
+- 2026-08-06 00:49 STOP  controller   spawner=stack agent=a85a72b2 sess=bcd9aeb3 · 3м · ok
+- 2026-08-06 00:49 START workflow-subagent spawner=stack agent=aca2f88e sess=bcd9aeb3 · 
+- 2026-08-06 00:53 STOP  workflow-subagent spawner=stack agent=aca2f88e sess=bcd9aeb3 · 4м · ok
