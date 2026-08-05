@@ -99,3 +99,5 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-05 23:13 START Explore      spawner=stack agent=a1fddfe3 sess=bcd9aeb3 · 
 - 2026-08-05 23:13 STOP  general-purpose spawner=stack agent=a4f1ae94 sess=bcd9aeb3 · 0м · ok
 - 2026-08-05 23:13 STOP  Explore      spawner=stack agent=a1fddfe3 sess=bcd9aeb3 · 0м · ok
+- 2026-08-05 23:18 STOP  mcp-doctor   spawner=stack agent=amcp-doc sess=bcd9aeb3 · 22м · ok
+- 2026-08-05 23:19 STOP  worker-log-fix spawner=stack agent=aworker- sess=bcd9aeb3 · 22м · ok
