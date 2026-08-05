@@ -63,3 +63,14 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-05 20:33 STOP  friction-audit spawner=stack agent=africtio sess=bcd9aeb3 · 11м · ok
 - 2026-08-05 20:33 STOP  usage-audit  spawner=stack agent=ausage-a sess=bcd9aeb3 · 11м · ok
 - 2026-08-05 21:23 STOP  ?            spawner=stack agent=a5725454 sess=bcd9aeb3 ·  · ok
+- 2026-08-05 21:33 STOP  ?            spawner=stack agent=a186f951 sess=bcd9aeb3 ·  · ok
+- 2026-08-05 21:43 STOP  ?            spawner=stack agent=ac7206d7 sess=bcd9aeb3 ·  · ok
+- 2026-08-05 21:53 STOP  ?            spawner=stack agent=a7aacb80 sess=bcd9aeb3 ·  · ok
+- 2026-08-05 21:57 START provider-check spawner=stack agent=aprovide sess=bcd9aeb3 · 
+- 2026-08-05 21:58 STOP  ?            spawner=stack agent=a584e5e3 sess=bcd9aeb3 ·  · ok
+- 2026-08-05 22:04 STOP  ?            spawner=stack agent=aebdefc4 sess=bcd9aeb3 ·  · ok
+- 2026-08-05 22:14 STOP  ?            spawner=stack agent=ac75f5e1 sess=bcd9aeb3 ·  · ok
+- 2026-08-05 22:14 STOP  provider-check spawner=stack agent=aprovide sess=bcd9aeb3 · 17м · ok
+- 2026-08-05 22:15 STOP  ?            spawner=stack agent=ab1f83f1 sess=bcd9aeb3 ·  · ok
+- 2026-08-05 22:19 STOP  ?            spawner=stack agent=a4c6d1f0 sess=bcd9aeb3 ·  · ok
+- 2026-08-05 22:33 STOP  ?            spawner=stack agent=a92660cf sess=bcd9aeb3 ·  · ok
