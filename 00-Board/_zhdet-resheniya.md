@@ -6,7 +6,6 @@ updated: 2026-08-09 05:31
 tags:
 - board
 - queue
-permalink: stack/00-board/zhdet-resheniya
 ---
 
 # Что ждёт решения Президента
