@@ -28,6 +28,11 @@ START без STOP = воркер не вернулся; повисших пок�
 а не пропавшие воркеры; разбор в `worker-log-fix-2026-08-05.md`. История не
 переписывается, поэтому они остаются на месте.
 
+Второе поколение тех же фантомов (формат `STOP ?<id> · START?`, 05–09.08) удалено 09.08
+вместе с корневой починкой хука: фильтр не-воркера требовал ещё и отсутствия
+`agent_transcript_path`, а у конца хода лида он есть. Удалено 18 строк; новых не появится.
+В рабочем близнеце такие строки (186 шт.) оставлены нетронутыми — это другой контур.
+
 - 2026-07-30 01:30 START breaker-ssh  spawner=stack agent=abreaker sess=f34ac4a3 · 
 - 2026-07-30 01:30 START critic-doc   spawner=stack agent=acritic- sess=f34ac4a3 · 
 - 2026-07-30 01:30 START auditor-scope spawner=stack agent=aauditor sess=f34ac4a3 · 
@@ -162,3 +167,4 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-09 05:08 STOP  apply-research spawner=stack agent=aapply-research-2c00700f sess=33ae1170 · START? · ok
 - 2026-08-09 05:08 STOP  worker-tools spawner=stack agent=aworker-tools-344d8247b8 sess=33ae1170 · START? · ok
 - 2026-08-09 05:08 START worker-tools spawner=stack agent=aworker-tools-344d8247b8 sess=33ae1170 · 
+- 2026-08-09 05:09 STOP  worker-tools spawner=stack agent=aworker-tools-344d8247b8 sess=33ae1170 · 1м · ok
