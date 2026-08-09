@@ -191,3 +191,4 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-09 06:59 START audit-round-5 spawner=stack agent=aaudit-round-5-360e43495 sess=33ae1170 · 
 - 2026-08-09 07:30 STOP  audit-round-5 spawner=stack agent=aaudit-round-5-360e43495 sess=33ae1170 · 31м · ok
 - 2026-08-09 07:30 START audit-round-5 spawner=stack agent=aaudit-round-5-360e43495 sess=33ae1170 · 
+- 2026-08-09 07:37 START audit-round-6 spawner=stack agent=aaudit-round-6-5cfe29258 sess=33ae1170 · 
