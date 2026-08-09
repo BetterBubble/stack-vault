@@ -214,3 +214,4 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-09 12:55 START sverka-normy spawner=stack agent=asverka-normy-559b311685 sess=33ae1170 · 
 - 2026-08-09 12:55 START audit-round-15 spawner=stack agent=aaudit-round-15-57ccb404 sess=33ae1170 · 
 - 2026-08-09 13:00 STOP  sverka-normy spawner=stack agent=asverka-normy-559b311685 sess=33ae1170 · 5м · ok
+- 2026-08-09 13:04 STOP  rezhim-rolej spawner=stack agent=arezhim-rolej-dfacc435f3 sess=33ae1170 · 10м · ok
