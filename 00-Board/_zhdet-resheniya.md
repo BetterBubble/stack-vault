@@ -2,7 +2,7 @@
 title: Что ждёт решения Президента
 type: note
 status: current
-updated: 2026-08-09 05:33
+updated: 2026-08-09 05:34
 tags:
 - board
 - queue
