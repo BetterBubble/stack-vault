@@ -2,11 +2,10 @@
 title: Что ждёт решения Президента
 type: note
 status: current
-updated: 2026-08-09 05:31
+updated: 2026-08-09 05:32
 tags:
 - board
 - queue
-permalink: stack/00-board/zhdet-resheniya
 ---
 
 # Что ждёт решения Президента
