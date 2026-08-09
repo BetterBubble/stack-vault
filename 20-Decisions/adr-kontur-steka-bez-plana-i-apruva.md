@@ -1,14 +1,10 @@
 ---
-permalink: stack/20-decisions/adr-kontur-steka-bez-plana-i-apruva
----
-
----
-title: Контур стека — исключение из §2а: ни плана крупной задачи, ни апрува
+title: "Контур стека — исключение из §2а: ни плана крупной задачи, ни апрува"
 type: decision
 status: current
 created: 2026-08-09 03:30
 updated: 2026-08-09 03:30
-permalink: stack/20-decisions/adr-kontur-steka-bez-plana-i-apruva
+permalink: stack/decisions/adr-kontur-steka-bez-plana-i-apruva
 tags:
 - adr
 - process

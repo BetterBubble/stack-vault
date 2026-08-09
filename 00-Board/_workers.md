@@ -157,3 +157,20 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-09 03:38 STOP  ?ab50cc      spawner=stack agent=aab50ccf sess=33ae1170 · START? · ok
 - 2026-08-09 03:44 STOP  ?ceca28      spawner=stack agent=aceca28e sess=33ae1170 · START? · ok
 - 2026-08-09 03:53 STOP  ?34ef6d      spawner=stack agent=a34ef6de sess=33ae1170 · START? · ok
+- 2026-08-09 04:20 STOP  ?a740e9      spawner=stack agent=aa740e9d sess=33ae1170 · START? · ok
+- 2026-08-09 04:28 STOP  ?725ff1      spawner=stack agent=a725ff12 sess=33ae1170 · START? · ok
+- 2026-08-09 04:32 START debt-frontmatter spawner=stack agent=adebt-fr sess=33ae1170 · 
+- 2026-08-09 04:32 START debt-hooks   spawner=stack agent=adebt-ho sess=33ae1170 · 
+- 2026-08-09 04:33 START audit-week   spawner=stack agent=aaudit-w sess=33ae1170 · 
+- 2026-08-09 04:34 START research-stacks spawner=stack agent=aresearc sess=33ae1170 · 
+- 2026-08-09 04:34 START research-transcribe spawner=stack agent=aresearc sess=33ae1170 · 
+- 2026-08-09 04:42 STOP  audit-week   spawner=stack agent=aaudit-w sess=33ae1170 · 9м · ok
+- 2026-08-09 04:44 STOP  research-stacks spawner=stack agent=aresearc sess=33ae1170 · 10м · ok
+- 2026-08-09 04:49 STOP  debt-hooks   spawner=stack agent=adebt-ho sess=33ae1170 · 17м · ok
+- 2026-08-09 04:50 STOP  research-transcribe spawner=stack agent=aresearc sess=33ae1170 · 16м · ok
+- 2026-08-09 04:51 STOP  debt-frontmatter spawner=stack agent=adebt-fr sess=33ae1170 · 19м · ok
+- 2026-08-09 04:52 START worker-tools spawner=stack agent=aworker- sess=33ae1170 · 
+- 2026-08-09 04:53 START no-approvals spawner=stack agent=ano-appr sess=33ae1170 · 
+- 2026-08-09 04:53 START nudge-leads  spawner=stack agent=anudge-l sess=33ae1170 · 
+- 2026-08-09 04:55 START worker-env   spawner=stack agent=aworker- sess=33ae1170 · 
+- 2026-08-09 04:56 START apply-research spawner=stack agent=aapply-r sess=33ae1170 · 
