@@ -173,3 +173,4 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-09 05:12 STOP  audit-round-1 spawner=stack agent=aaudit-round-1-4f19dd4fb sess=33ae1170 · 9м · ok
 - 2026-08-09 05:12 STOP  no-approvals spawner=stack agent=ano-approvals-e5f65ce0e8 sess=33ae1170 · START? · ok
 - 2026-08-09 05:13 STOP  research-transcribe spawner=stack agent=aresearch-transcribe-84a sess=33ae1170 · 3м · ok
+- 2026-08-09 05:15 STOP  nudge-leads  spawner=stack agent=anudge-leads-aae61ac04a9 sess=33ae1170 · START? · ok
