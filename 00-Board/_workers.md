@@ -176,3 +176,4 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-09 04:56 START apply-research spawner=stack agent=aapply-r sess=33ae1170 · 
 - 2026-08-09 05:03 START audit-round-1 spawner=stack agent=aaudit-round-1-4f19dd4fb sess=33ae1170 · 
 - 2026-08-09 05:03 START harness-output spawner=stack agent=aharness-output-f7a5b990 sess=33ae1170 · 
+- 2026-08-09 05:06 STOP  harness-output spawner=stack agent=aharness-output-f7a5b990 sess=33ae1170 · 3м · ok
