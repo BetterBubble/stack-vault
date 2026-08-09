@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(//Users/bubblemac/.claude/**)",
+      "Write(//Users/bubblemac/.claude/**)",
+      "Edit(//Users/bubblemac/claude-stack/**)",
+      "Write(//Users/bubblemac/claude-stack/**)",
+      "Edit(//Users/bubblemac/stack-vault/**)",
+      "Write(//Users/bubblemac/stack-vault/**)",
+      "Read(//Users/bubblemac/**)",
+      "mcp__basic-memory__write_note",
+      "mcp__basic-memory__edit_note",
+      "mcp__basic-memory__move_note",
+      "mcp__basic-memory__read_note",
+      "mcp__basic-memory__search_notes",
+      "mcp__basic-memory__list_directory",
+      "mcp__basic-memory__recent_activity"
+    ]
+  }
+}
