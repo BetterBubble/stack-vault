@@ -152,3 +152,5 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-06 01:46 STOP  ?a72160      spawner=stack agent=aa72160d sess=bcd9aeb3 · START? · ok
 - 2026-08-06 02:30 STOP  ?2088c5      spawner=stack agent=a2088c56 sess=bcd9aeb3 · START? · ok
 - 2026-08-06 02:39 STOP  ?bded67      spawner=stack agent=abded675 sess=bcd9aeb3 · START? · ok
+- 2026-08-06 02:42 STOP  ?a87764      spawner=stack agent=aa87764f sess=bcd9aeb3 · START? · ok
+- 2026-08-09 03:19 STOP  ?99680b      spawner=stack agent=a99680bb sess=33ae1170 · START? · ok
