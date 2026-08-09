@@ -168,3 +168,5 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-09 05:08 STOP  worker-tools spawner=stack agent=aworker-tools-344d8247b8 sess=33ae1170 · START? · ok
 - 2026-08-09 05:08 START worker-tools spawner=stack agent=aworker-tools-344d8247b8 sess=33ae1170 · 
 - 2026-08-09 05:09 STOP  worker-tools spawner=stack agent=aworker-tools-344d8247b8 sess=33ae1170 · 1м · ok
+- 2026-08-09 05:10 START research-transcribe spawner=stack agent=aresearch-transcribe-84a sess=33ae1170 · 
+- 2026-08-09 05:11 STOP  worker-env   spawner=stack agent=aworker-env-b4a40f96b018 sess=33ae1170 · START? · ok
