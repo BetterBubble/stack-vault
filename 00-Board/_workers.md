@@ -216,3 +216,87 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-09 13:00 STOP  sverka-normy spawner=stack agent=asverka-normy-559b311685 sess=33ae1170 · 5м · ok
 - 2026-08-09 13:04 STOP  rezhim-rolej spawner=stack agent=arezhim-rolej-dfacc435f3 sess=33ae1170 · 10м · ok
 - 2026-08-09 13:10 STOP  audit-round-15 spawner=stack agent=aaudit-round-15-57ccb404 sess=33ae1170 · 15м · ok
+- 2026-08-12 02:22 START general-purpose spawner=stack agent=aa2a1303718552132 sess=8145100e · 
+- 2026-08-12 02:22 START general-purpose spawner=stack agent=a1cafb1968a9fc753 sess=8145100e · 
+- 2026-08-12 02:22 START general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 
+- 2026-08-12 02:22 START general-purpose spawner=stack agent=a3bc66b5db4c11bc4 sess=8145100e · 
+- 2026-08-12 02:22 START general-purpose spawner=stack agent=ada03101e7ab62a57 sess=8145100e · 
+- 2026-08-12 02:22 START general-purpose spawner=stack agent=ac9e345f8d2d0201f sess=8145100e · 
+- 2026-08-12 02:22 START general-purpose spawner=stack agent=ab64362c8479ed621 sess=8145100e · 
+- 2026-08-12 02:23 START general-purpose spawner=stack agent=ab2bc7ab10d64b9a1 sess=8145100e · 
+- 2026-08-12 02:23 START bm-research  spawner=stack agent=abm-research-5b6b9f1eb23 sess=8145100e · 
+- 2026-08-12 02:23 START general-purpose spawner=stack agent=aa9a745f0ec0540f0 sess=8145100e · 
+- 2026-08-12 02:23 START eu-prices    spawner=stack agent=aeu-prices-9deaf58393209 sess=8145100e · 
+- 2026-08-12 02:23 START general-purpose spawner=stack agent=a35532ae5a3d89531 sess=8145100e · 
+- 2026-08-12 02:23 START general-purpose spawner=stack agent=acc0e27eb0d8ca402 sess=8145100e · 
+- 2026-08-12 02:23 START rep-research spawner=stack agent=arep-research-0509b45431 sess=8145100e · 
+- 2026-08-12 02:23 START general-purpose spawner=stack agent=a17f046e718032be4 sess=8145100e · 
+- 2026-08-12 02:23 START general-purpose spawner=stack agent=a7b00da19344b7fe0 sess=8145100e · 
+- 2026-08-12 02:23 START outages      spawner=stack agent=aoutages-b5852309bfc5f5c sess=8145100e · 
+- 2026-08-12 02:23 START vps-cloud    spawner=stack agent=avps-cloud-8adfd4cd0e957 sess=8145100e · 
+- 2026-08-12 02:25 STOP  general-purpose spawner=stack agent=ac9e345f8d2d0201f sess=8145100e · 3м · ok
+- 2026-08-12 02:27 STOP  eu-prices    spawner=stack agent=aeu-prices-9deaf58393209 sess=8145100e · 4м · ok
+- 2026-08-12 02:27 START eu-prices    spawner=stack agent=aeu-prices-9deaf58393209 sess=8145100e · 
+- 2026-08-12 02:28 STOP  general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 6м · ok
+- 2026-08-12 02:28 STOP  vps-cloud    spawner=stack agent=avps-cloud-8adfd4cd0e957 sess=8145100e · 5м · ok
+- 2026-08-12 02:28 STOP  eu-prices    spawner=stack agent=aeu-prices-9deaf58393209 sess=8145100e · 1м · ok
+- 2026-08-12 02:29 STOP  bm-research  spawner=stack agent=abm-research-5b6b9f1eb23 sess=8145100e · 6м · ok
+- 2026-08-12 02:29 START bm-research  spawner=stack agent=abm-research-5b6b9f1eb23 sess=8145100e · 
+- 2026-08-12 02:29 STOP  general-purpose spawner=stack agent=acc0e27eb0d8ca402 sess=8145100e · 6м · ok
+- 2026-08-12 02:29 STOP  general-purpose spawner=stack agent=a7b00da19344b7fe0 sess=8145100e · 6м · ok
+- 2026-08-12 02:30 STOP  bm-research  spawner=stack agent=abm-research-5b6b9f1eb23 sess=8145100e · 1м · ok
+- 2026-08-12 02:31 STOP  outages      spawner=stack agent=aoutages-b5852309bfc5f5c sess=8145100e · 8м · ok
+- 2026-08-12 02:31 START outages      spawner=stack agent=aoutages-b5852309bfc5f5c sess=8145100e · 
+- 2026-08-12 02:33 STOP  general-purpose spawner=stack agent=ab2bc7ab10d64b9a1 sess=8145100e · 10м · ok
+- 2026-08-12 02:33 START general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 
+- 2026-08-12 02:33 STOP  outages      spawner=stack agent=aoutages-b5852309bfc5f5c sess=8145100e · 2м · ok
+- 2026-08-12 02:33 STOP  general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 0м · ok
+- 2026-08-12 02:33 STOP  general-purpose spawner=stack agent=aa9a745f0ec0540f0 sess=8145100e · 10м · ok
+- 2026-08-12 02:33 START general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 
+- 2026-08-12 02:33 STOP  general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 0м · ok
+- 2026-08-12 02:34 STOP  general-purpose spawner=stack agent=a1cafb1968a9fc753 sess=8145100e · 12м · ok
+- 2026-08-12 02:34 STOP  general-purpose spawner=stack agent=ab64362c8479ed621 sess=8145100e · 12м · ok
+- 2026-08-12 02:34 START general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 
+- 2026-08-12 02:34 STOP  general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 0м · ok
+- 2026-08-12 02:34 START eu-prices    spawner=stack agent=aeu-prices-9deaf58393209 sess=8145100e · 
+- 2026-08-12 02:34 START bm-research  spawner=stack agent=abm-research-5b6b9f1eb23 sess=8145100e · 
+- 2026-08-12 02:35 STOP  general-purpose spawner=stack agent=a17f046e718032be4 sess=8145100e · 12м · ok
+- 2026-08-12 02:35 START general-purpose spawner=stack agent=a1cafb1968a9fc753 sess=8145100e · 
+- 2026-08-12 02:35 STOP  bm-research  spawner=stack agent=abm-research-5b6b9f1eb23 sess=8145100e · 1м · ok
+- 2026-08-12 02:35 STOP  eu-prices    spawner=stack agent=aeu-prices-9deaf58393209 sess=8145100e · 1м · ok
+- 2026-08-12 02:35 STOP  general-purpose spawner=stack agent=a1cafb1968a9fc753 sess=8145100e · 0м · ok
+- 2026-08-12 02:36 STOP  rep-research spawner=stack agent=arep-research-0509b45431 sess=8145100e · 13м · ok
+- 2026-08-12 02:36 START rep-research spawner=stack agent=arep-research-0509b45431 sess=8145100e · 
+- 2026-08-12 02:37 STOP  general-purpose spawner=stack agent=a35532ae5a3d89531 sess=8145100e · 14м · ok
+- 2026-08-12 02:37 START general-purpose spawner=stack agent=a1cafb1968a9fc753 sess=8145100e · 
+- 2026-08-12 02:38 STOP  rep-research spawner=stack agent=arep-research-0509b45431 sess=8145100e · 2м · ok
+- 2026-08-12 02:38 STOP  general-purpose spawner=stack agent=aa2a1303718552132 sess=8145100e · 16м · ok
+- 2026-08-12 02:39 STOP  general-purpose spawner=stack agent=a1cafb1968a9fc753 sess=8145100e · 2м · ok
+- 2026-08-12 02:39 START general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 
+- 2026-08-12 02:39 STOP  general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 0м · ok
+- 2026-08-12 02:40 START general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 
+- 2026-08-12 02:40 STOP  general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 0м · ok
+- 2026-08-12 02:40 START general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 
+- 2026-08-12 02:42 STOP  general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 2м · ok
+- 2026-08-12 02:42 START general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 
+- 2026-08-12 02:43 STOP  general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 1м · ok
+- 2026-08-12 02:43 START general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 
+- 2026-08-12 02:43 STOP  general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 0м · ok
+- 2026-08-12 02:43 START general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 
+- 2026-08-12 02:43 STOP  general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 0м · ok
+- 2026-08-12 02:43 START general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 
+- 2026-08-12 02:43 STOP  general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 0м · ok
+- 2026-08-12 02:48 STOP  general-purpose spawner=stack agent=ada03101e7ab62a57 sess=8145100e · 26м · ok
+- 2026-08-12 02:48 START general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 
+- 2026-08-12 02:49 STOP  general-purpose spawner=stack agent=a1d4311f6cf3e6616 sess=8145100e · 1м · ok
+- 2026-08-12 03:01 START eu-prices    spawner=stack agent=aeu-prices-9deaf58393209 sess=8145100e · 
+- 2026-08-12 03:01 START bm-research  spawner=stack agent=abm-research-5b6b9f1eb23 sess=8145100e · 
+- 2026-08-12 03:01 START rep-research spawner=stack agent=arep-research-0509b45431 sess=8145100e · 
+- 2026-08-12 03:02 STOP  bm-research  spawner=stack agent=abm-research-5b6b9f1eb23 sess=8145100e · 1м · ok
+- 2026-08-12 03:02 STOP  eu-prices    spawner=stack agent=aeu-prices-9deaf58393209 sess=8145100e · 1м · ok
+- 2026-08-12 03:02 STOP  rep-research spawner=stack agent=arep-research-0509b45431 sess=8145100e · 1м · ok
+- 2026-08-12 03:14 STOP  general-purpose spawner=stack agent=a3bc66b5db4c11bc4 sess=8145100e · 52м · ok
+- 2026-08-12 03:16 START outages      spawner=stack agent=aoutages-b5852309bfc5f5c sess=8145100e · 
+- 2026-08-12 03:17 STOP  outages      spawner=stack agent=aoutages-b5852309bfc5f5c sess=8145100e · 1м · ok
+- 2026-08-12 03:17 START outages      spawner=stack agent=aoutages-b5852309bfc5f5c sess=8145100e · 
+- 2026-08-12 03:19 STOP  outages      spawner=stack agent=aoutages-b5852309bfc5f5c sess=8145100e · 2м · ok
