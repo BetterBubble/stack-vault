@@ -302,3 +302,23 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-12 03:19 STOP  outages      spawner=stack agent=aoutages-b5852309bfc5f5c sess=8145100e · 2м · ok
 - 2026-08-16 12:07 START Explore      spawner=stack agent=a3702f5b90aeea1bf sess=b9493deb · 
 - 2026-08-16 12:07 STOP  Explore      spawner=stack agent=a3702f5b90aeea1bf sess=b9493deb · 0м · ok
+- 2026-08-16 15:31 START explorer     spawner=stack agent=acf77e7b0ecd54d1d sess=b9493deb · 
+- 2026-08-16 15:32 START explorer     spawner=stack agent=a41f6765d9bc53e6a sess=b9493deb · 
+- 2026-08-16 15:32 START explorer     spawner=stack agent=ab58810b718df5999 sess=b9493deb · 
+- 2026-08-16 15:32 START explorer     spawner=stack agent=ad24f12252a608ff2 sess=b9493deb · 
+- 2026-08-16 15:36 STOP  explorer     spawner=stack agent=acf77e7b0ecd54d1d sess=b9493deb · 5м · ok
+- 2026-08-16 15:37 STOP  explorer     spawner=stack agent=a41f6765d9bc53e6a sess=b9493deb · 5м · ok
+- 2026-08-16 15:38 STOP  explorer     spawner=stack agent=ad24f12252a608ff2 sess=b9493deb · 6м · ok
+- 2026-08-16 15:39 STOP  explorer     spawner=stack agent=ab58810b718df5999 sess=b9493deb · 7м · ok
+- 2026-08-16 16:05 START explorer     spawner=stack agent=a17fdb7cb95274091 sess=b9493deb · 
+- 2026-08-16 16:11 STOP  explorer     spawner=stack agent=a17fdb7cb95274091 sess=b9493deb · 6м · ok
+- 2026-08-16 16:56 START general-purpose spawner=stack agent=a38b9e35cf98fb007 sess=b9493deb · 
+- 2026-08-16 16:58 STOP  general-purpose spawner=stack agent=a38b9e35cf98fb007 sess=b9493deb · 2м · ok
+- 2026-08-16 17:18 START explorer     spawner=stack agent=ae458d4a0784aff6f sess=b9493deb · 
+- 2026-08-16 17:22 STOP  explorer     spawner=stack agent=ae458d4a0784aff6f sess=b9493deb · 4м · ok
+- 2026-08-16 17:37 START general-purpose spawner=stack agent=a1bd4df4d01245a5d sess=b9493deb · 
+- 2026-08-16 17:37 START general-purpose spawner=stack agent=a2359af332ac9fb93 sess=b9493deb · 
+- 2026-08-16 17:38 START explorer     spawner=stack agent=a60b034de8f3ee8d5 sess=b9493deb · 
+- 2026-08-16 17:41 STOP  explorer     spawner=stack agent=a60b034de8f3ee8d5 sess=b9493deb · 3м · ok
+- 2026-08-16 17:44 STOP  general-purpose spawner=stack agent=a2359af332ac9fb93 sess=b9493deb · 7м · ok
+- 2026-08-16 17:48 STOP  general-purpose spawner=stack agent=a1bd4df4d01245a5d sess=b9493deb · 11м · ok
