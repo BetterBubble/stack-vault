@@ -10,6 +10,7 @@ tags:
 - board
 - autonomy
 - report
+archived-at: 2026-08-16 11:27
 ---
 
 # Отчёт автоном-прогона за ночь 05→06.08

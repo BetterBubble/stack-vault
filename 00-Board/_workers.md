@@ -300,3 +300,5 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-12 03:17 STOP  outages      spawner=stack agent=aoutages-b5852309bfc5f5c sess=8145100e · 1м · ok
 - 2026-08-12 03:17 START outages      spawner=stack agent=aoutages-b5852309bfc5f5c sess=8145100e · 
 - 2026-08-12 03:19 STOP  outages      spawner=stack agent=aoutages-b5852309bfc5f5c sess=8145100e · 2м · ok
+- 2026-08-16 12:07 START Explore      spawner=stack agent=a3702f5b90aeea1bf sess=b9493deb · 
+- 2026-08-16 12:07 STOP  Explore      spawner=stack agent=a3702f5b90aeea1bf sess=b9493deb · 0м · ok
