@@ -345,3 +345,4 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-17 17:44 STOP  raskop-stack spawner=stack agent=araskop-stack-5e39ac5635 sess=4a8374b2 · 2м · ok
 - 2026-08-17 17:44 STOP  raskop-config spawner=stack agent=araskop-config-945d9977e sess=4a8374b2 · 3м · ok
 - 2026-08-17 17:44 START raskop-config spawner=stack agent=araskop-config-945d9977e sess=4a8374b2 · 
+- 2026-08-17 17:50 STOP  raskop-config spawner=stack agent=araskop-config-945d9977e sess=4a8374b2 · 6м · ok
