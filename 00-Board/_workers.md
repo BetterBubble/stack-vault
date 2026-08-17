@@ -322,3 +322,17 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-16 17:41 STOP  explorer     spawner=stack agent=a60b034de8f3ee8d5 sess=b9493deb · 3м · ok
 - 2026-08-16 17:44 STOP  general-purpose spawner=stack agent=a2359af332ac9fb93 sess=b9493deb · 7м · ok
 - 2026-08-16 17:48 STOP  general-purpose spawner=stack agent=a1bd4df4d01245a5d sess=b9493deb · 11м · ok
+- 2026-08-17 17:32 START raskop-vault spawner=stack agent=araskop-vault-7313e0c156 sess=4a8374b2 · 
+- 2026-08-17 17:33 START raskop-stack spawner=stack agent=araskop-stack-5e39ac5635 sess=4a8374b2 · 
+- 2026-08-17 17:33 START raskop-config spawner=stack agent=araskop-config-945d9977e sess=4a8374b2 · 
+- 2026-08-17 17:33 START raskop-vision spawner=stack agent=araskop-vision-41235af30 sess=4a8374b2 · 
+- 2026-08-17 17:37 STOP  raskop-stack spawner=stack agent=araskop-stack-5e39ac5635 sess=4a8374b2 · 4м · ok
+- 2026-08-17 17:37 START raskop-stack spawner=stack agent=araskop-stack-5e39ac5635 sess=4a8374b2 · 
+- 2026-08-17 17:38 STOP  raskop-vision spawner=stack agent=araskop-vision-41235af30 sess=4a8374b2 · 5м · ok
+- 2026-08-17 17:38 START raskop-vision spawner=stack agent=araskop-vision-41235af30 sess=4a8374b2 · 
+- 2026-08-17 17:39 STOP  raskop-vault spawner=stack agent=araskop-vault-7313e0c156 sess=4a8374b2 · 7м · ok
+- 2026-08-17 17:39 START raskop-vault spawner=stack agent=araskop-vault-7313e0c156 sess=4a8374b2 · 
+- 2026-08-17 17:39 STOP  raskop-stack spawner=stack agent=araskop-stack-5e39ac5635 sess=4a8374b2 · 2м · ok
+- 2026-08-17 17:40 STOP  raskop-vision spawner=stack agent=araskop-vision-41235af30 sess=4a8374b2 · 2м · ok
+- 2026-08-17 17:40 STOP  raskop-config spawner=stack agent=araskop-config-945d9977e sess=4a8374b2 · 7м · ok
+- 2026-08-17 17:40 STOP  raskop-vault spawner=stack agent=araskop-vault-7313e0c156 sess=4a8374b2 · 1м · ok
