@@ -360,4 +360,7 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-23 19:40 STOP  szhat-zhdet-menya spawner=stack agent=aszhat-zhdet-menya-04438 sess=6cbea1cc · 6м · ok
 - 2026-08-23 20:47 START claude-code-guide spawner=stack agent=af480733f46025d2e sess=6cbea1cc · 
 - 2026-08-23 20:49 STOP  claude-code-guide spawner=stack agent=af480733f46025d2e sess=6cbea1cc · 2м · ok
-- 2026-08-23 21:16 STOP  implementer  spawner=stack agent=a29c8b6b639a7b57d sess=6cbea1cc · START? · ok
+- 2026-08-23 21:16 STOP  implementer  spawner=stack agent=a29c8b6b639a7b57d sess=6cbea1cc · START? · ok- 2026-08-23 21:46 START kartochka-status spawner=stack agent=akartochka-status-1d7f4c sess=6cbea1cc · 
+- 2026-08-23 21:46 START indeksy-papok spawner=stack agent=aindeksy-papok-0da044dc1 sess=6cbea1cc · 
+- 2026-08-23 21:47 START puti-v-kode  spawner=stack agent=aputi-v-kode-b51ec1b29f6 sess=6cbea1cc · 
+- 2026-08-23 21:47 START shablony     spawner=stack agent=ashablony-1e827b5006deb8 sess=6cbea1cc · 
