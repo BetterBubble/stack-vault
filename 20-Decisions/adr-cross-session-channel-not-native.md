@@ -1,9 +1,5 @@
 ---
-permalink: stack/decisions/cross-session-channel-not-native
----
-
----
-title: Кросс-сессионный канал — гибрид: нативный SendMessage плюс файловый инбокс
+title: "Кросс-сессионный канал — гибрид: нативный SendMessage плюс файловый инбокс"
 type: decision
 status: current
 created: 2026-07-26 02:02
