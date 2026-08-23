@@ -358,3 +358,5 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-23 19:34 START szhat-zhdet-menya spawner=stack agent=aszhat-zhdet-menya-04438 sess=6cbea1cc · 
 - 2026-08-23 19:36 STOP  plan-dnya    spawner=stack agent=aplan-dnya-151d567ace625 sess=6cbea1cc · 4м · ok
 - 2026-08-23 19:40 STOP  szhat-zhdet-menya spawner=stack agent=aszhat-zhdet-menya-04438 sess=6cbea1cc · 6м · ok
+- 2026-08-23 20:47 START claude-code-guide spawner=stack agent=af480733f46025d2e sess=6cbea1cc · 
+- 2026-08-23 20:49 STOP  claude-code-guide spawner=stack agent=af480733f46025d2e sess=6cbea1cc · 2м · ok
