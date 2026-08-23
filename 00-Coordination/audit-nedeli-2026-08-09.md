@@ -4,7 +4,7 @@ type: note
 status: draft
 created: 2026-08-09 04:55
 updated: 2026-08-09 04:55
-permalink: stack/board/audit-nedeli-2026-08-09
+permalink: stack/board/audit-nedeli-2026-08-09-1
 tags:
 - board
 - audit
@@ -13,7 +13,7 @@ tags:
 
 # Аудит трений недели 02–09.08
 
-Источники: `~/tacticum-vault/00-Board/` (доска, ростер, сигналы, `_workers.md`),
+Источники: `~/tacticum-vault/00-Coordination/` (доска, ростер, сигналы, `_workers.md`),
 `~/.claude/permission-denied.log` (за неделю 91 реальная запись после отсечки синтетических проб
 по методике [[audit-trenie-2026-08-05]]), `~/.claude/autonomy.log`, `~/.claude/logs/tool-failures.log`,
 `~/.claude/history.jsonl` (555 сообщений пользователя за неделю), git-история трёх репозиториев.
@@ -192,9 +192,9 @@ lead-iva-write — многотысячесловные простыни, вну
 ([[worker-log-fix-2026-08-05]] объяснил старые строки, но новые пишутся 06.08–09.08, включая
 сегодняшнюю сессию стека).
 
-**ДОКАЗАТЕЛЬСТВО.** `grep -c "START?" ~/tacticum-vault/00-Board/_workers.md` → 186;
+**ДОКАЗАТЕЛЬСТВО.** `grep -c "START?" ~/tacticum-vault/00-Coordination/_workers.md` → 186;
 `~/tacticum-vault/91-Archive/workers-2026-08.md` → 137; свежие строки `2026-08-09 03:19 STOP ?99680b …
-START?` в `~/stack-vault/00-Board/_workers.md`.
+START?` в `~/stack-vault/00-Coordination/_workers.md`.
 
 **ЦЕНА.** Диагностика «повис ли воркер» (и `stack-doctor`, который на неё опирается) не работает;
 человек, открыв журнал, видит шум вместо линии времени.

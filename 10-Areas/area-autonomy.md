@@ -87,8 +87,8 @@ ls ~/.claude/AUTONOMY_OFF            # стоп активен?
 pmset -g assertions | grep -i caffe  # держит ли caffeinate систему
 ```
 
-Утром после прогона: `autonomy status` (окно должно закрыться само), доска `00-Board`, журнал
-воркеров `00-Board/_workers.md`.
+Утром после прогона: `autonomy status` (окно должно закрыться само), доска `00-Coordination`, журнал
+воркеров `00-Coordination/_workers.md`.
 
 ## Границы
 

@@ -29,7 +29,7 @@ tags:
 | `signal-status.sh` | `~/.claude/hooks/` | что в очереди + **вооружён ли монитор** (проверяется всегда) |
 | `stop-reminder.sh` | `~/.claude/hooks/` | `Stop`-хук: не отпускает ход, если есть неразобранные сигналы |
 | `role-register.sh` / `session-end.sh` | `~/.claude/hooks/` | адресация: строка роли в `~/.claude/.role-registry` |
-| очередь | `$AGENT_VAULT/00-Board/signals/<роль>/inbox/` → `seen/` | один сигнал = один файл `sig-NNNNNN.json` |
+| очередь | `$AGENT_VAULT/00-Coordination/signals/<роль>/inbox/` → `seen/` | один сигнал = один файл `sig-NNNNNN.json` |
 
 Приём вооружает **агент**, а не оболочка — `Monitor` это инструмент сессии, хуком его не поставить:
 
