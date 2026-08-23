@@ -346,3 +346,15 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-17 17:44 STOP  raskop-config spawner=stack agent=araskop-config-945d9977e sess=4a8374b2 · 3м · ok
 - 2026-08-17 17:44 START raskop-config spawner=stack agent=araskop-config-945d9977e sess=4a8374b2 · 
 - 2026-08-17 17:50 STOP  raskop-config spawner=stack agent=araskop-config-945d9977e sess=4a8374b2 · 6м · ok
+- 2026-08-23 19:17 START kartochki-qa spawner=stack agent=akartochki-qa-f5c710045e sess=6cbea1cc · 
+- 2026-08-23 19:17 START kartochki-desktop spawner=stack agent=akartochki-desktop-784e7 sess=6cbea1cc · 
+- 2026-08-23 19:17 START kartochki-tech spawner=stack agent=akartochki-tech-620edf57 sess=6cbea1cc · 
+- 2026-08-23 19:18 START dnevnye-artefakty spawner=stack agent=adnevnye-artefakty-37d16 sess=6cbea1cc · 
+- 2026-08-23 19:25 STOP  kartochki-qa spawner=stack agent=akartochki-qa-f5c710045e sess=6cbea1cc · 8м · ok
+- 2026-08-23 19:25 STOP  kartochki-desktop spawner=stack agent=akartochki-desktop-784e7 sess=6cbea1cc · 8м · ok
+- 2026-08-23 19:27 STOP  dnevnye-artefakty spawner=stack agent=adnevnye-artefakty-37d16 sess=6cbea1cc · 9м · ok
+- 2026-08-23 19:29 STOP  kartochki-tech spawner=stack agent=akartochki-tech-620edf57 sess=6cbea1cc · 12м · ok
+- 2026-08-23 19:32 START plan-dnya    spawner=stack agent=aplan-dnya-151d567ace625 sess=6cbea1cc · 
+- 2026-08-23 19:34 START szhat-zhdet-menya spawner=stack agent=aszhat-zhdet-menya-04438 sess=6cbea1cc · 
+- 2026-08-23 19:36 STOP  plan-dnya    spawner=stack agent=aplan-dnya-151d567ace625 sess=6cbea1cc · 4м · ok
+- 2026-08-23 19:40 STOP  szhat-zhdet-menya spawner=stack agent=aszhat-zhdet-menya-04438 sess=6cbea1cc · 6м · ok
