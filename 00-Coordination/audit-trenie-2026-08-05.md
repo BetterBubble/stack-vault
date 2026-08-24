@@ -4,7 +4,7 @@ type: note
 status: draft
 created: 2026-08-05 20:25
 updated: 2026-08-05 20:25
-permalink: stack/board/audit-trenie-2026-08-05
+permalink: stack/board/audit-trenie-2026-08-05-1
 tags:
 - board
 - audit
@@ -15,7 +15,7 @@ tags:
 
 Источники: `~/.claude/permission-denied.log` (2380 записей JSONL, 2026-07-25 → 2026-08-05;
 последняя из них — отказ, полученный этим же аудитом, см. §3.1),
-`~/.claude/autonomy.log` (16 строк), `~/stack-vault/00-Board/_workers.md` (42 строки событий).
+`~/.claude/autonomy.log` (16 строк), `~/stack-vault/00-Coordination/_workers.md` (42 строки событий).
 Правило гейта, давшее отказ, сверялось с `~/.claude/hooks/guard.sh` — там, где это сделано,
 сказано прямо: «в коде», чтобы не смешивать с наблюдением из журнала.
 

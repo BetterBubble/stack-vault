@@ -56,7 +56,7 @@ git -C /Users/bubblemac/tacticum-worktrees/claude-stack-readme-pending-apply pus
 - Метрики: `izmenennyh_faylov` — **1 против порога 1**, пройдено. `bityh_ssylok` — **3 против порога
   0**, провалено; при этом регрессии нет: baseline 3/3 → HEAD 3/3, вклад правки **0 новых** `[[…]]`.
 - Второй прогон гейта (тот же вызов + `--plan
-  /Users/bubblemac/stack-vault/00-Board/plan-dry-run-pending-apply-2026-08-06.md`) закрыл пункт
+  /Users/bubblemac/stack-vault/00-Coordination/plan-dry-run-pending-apply-2026-08-06.md`) закрыл пункт
   «апрув плана»: строка «апрув: ГД, 06.08» и раздел «Что НЕ трогаем» на месте.
 - По существу: README теперь предупреждает о лжи каталога `pending-apply`.
 
