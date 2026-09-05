@@ -1,4 +1,5 @@
 ---
+title: Ресерч — ограждения и автономка (выхлоп 05.08)
 type: reference
 status: draft
 created: 2026-08-05 23:40
