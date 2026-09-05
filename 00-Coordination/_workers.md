@@ -364,3 +364,5 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-23 21:46 START indeksy-papok spawner=stack agent=aindeksy-papok-0da044dc1 sess=6cbea1cc · 
 - 2026-08-23 21:47 START puti-v-kode  spawner=stack agent=aputi-v-kode-b51ec1b29f6 sess=6cbea1cc · 
 - 2026-08-23 21:47 START shablony     spawner=stack agent=ashablony-1e827b5006deb8 sess=6cbea1cc · 
+- 2026-09-06 02:36 START probe-agent-id spawner=stack agent=aprobe-agent-id-a7c1967b sess=5127ffde · 
+- 2026-09-06 02:36 STOP  probe-agent-id spawner=stack agent=aprobe-agent-id-a7c1967b sess=5127ffde · 0м · ok
