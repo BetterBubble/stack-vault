@@ -366,3 +366,19 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-08-23 21:47 START shablony     spawner=stack agent=ashablony-1e827b5006deb8 sess=6cbea1cc · 
 - 2026-09-06 02:36 START probe-agent-id spawner=stack agent=aprobe-agent-id-a7c1967b sess=5127ffde · 
 - 2026-09-06 02:36 STOP  probe-agent-id spawner=stack agent=aprobe-agent-id-a7c1967b sess=5127ffde · 0м · ok
+- 2026-09-06 02:43 START research-telegram spawner=stack agent=aresearch-telegram-99d96 sess=5127ffde · 
+- 2026-09-06 02:46 STOP  research-telegram spawner=stack agent=aresearch-telegram-99d96 sess=5127ffde · 3м · ok
+- 2026-09-06 02:54 START workflow-subagent spawner=stack agent=a3b52b4e67f79940d sess=5127ffde · 
+- 2026-09-06 02:54 STOP  workflow-subagent spawner=stack agent=a3b52b4e67f79940d sess=5127ffde · 0м · ok
+- 2026-09-06 02:54 START implementer  spawner=stack agent=a265f6ae1fedab88a sess=5127ffde · 
+- 2026-09-06 02:56 STOP  implementer  spawner=stack agent=a265f6ae1fedab88a sess=5127ffde · 2м · ok
+- 2026-09-06 02:56 START verifier     spawner=stack agent=aebc596d6e9898d44 sess=5127ffde · 
+- 2026-09-06 02:57 STOP  verifier     spawner=stack agent=aebc596d6e9898d44 sess=5127ffde · 1м · ok
+- 2026-09-06 02:57 START controller   spawner=stack agent=a0a7681a5fc12ca35 sess=5127ffde · 
+- 2026-09-06 02:58 STOP  controller   spawner=stack agent=a0a7681a5fc12ca35 sess=5127ffde · 1м · ok
+- 2026-09-06 02:58 START workflow-subagent spawner=stack agent=a0e8f20e8d225bac5 sess=5127ffde · 
+- 2026-09-06 02:59 STOP  workflow-subagent spawner=stack agent=a0e8f20e8d225bac5 sess=5127ffde · 1м · ok
+- 2026-09-06 02:59 START workflow-subagent spawner=stack agent=a31580183414d5583 sess=5127ffde · 
+- 2026-09-06 03:00 STOP  workflow-subagent spawner=stack agent=a31580183414d5583 sess=5127ffde · 1м · ok
+- 2026-09-06 03:02 START verify-night-break spawner=stack agent=averify-night-break-d770 sess=5127ffde · 
+- 2026-09-06 03:03 START verify-night-gaps spawner=stack agent=averify-night-gaps-824d9 sess=5127ffde · 
