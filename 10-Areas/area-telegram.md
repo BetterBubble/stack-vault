@@ -2,8 +2,8 @@
 title: Область — телеграм-система управления стеком
 type: reference
 status: current
-created: 2026-09-06 06:30
-updated: 2026-09-06 06:30
+created: 2026-09-06 03:05
+updated: 2026-09-06 03:05
 permalink: stack/areas/area-telegram
 tags:
 - area

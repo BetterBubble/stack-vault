@@ -1,8 +1,9 @@
 ---
+title: Критик-1 ночи 06.09 — сломанное и лишнее, 15 находок пробами
 type: note
 status: draft
-created: 2026-09-06 06:45
-updated: 2026-09-06 06:45
+created: 2026-09-06 03:15
+updated: 2026-09-06 03:15
 permalink: stack/coordination/verify-night2-break-2026-09-06
 tags:
 - verify

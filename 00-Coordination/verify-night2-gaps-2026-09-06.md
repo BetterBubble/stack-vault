@@ -2,8 +2,8 @@
 title: Ревизия ночи-2 — недостающее (мандат «найди дыры»)
 type: note
 status: draft
-created: 2026-09-06 06:45
-updated: 2026-09-06 06:45
+created: 2026-09-06 03:05
+updated: 2026-09-06 03:05
 permalink: stack/coordination/verify-night2-gaps-2026-09-06
 tags:
 - verify

@@ -2,8 +2,8 @@
 title: Финал-3 — утро глазами Президента (06.09)
 type: note
 status: draft
-created: 2026-09-06 08:10
-updated: 2026-09-06 08:10
+created: 2026-09-06 04:05
+updated: 2026-09-06 04:05
 permalink: stack/coordination/final-user-2026-09-06
 tags:
 - verify
