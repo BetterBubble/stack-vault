@@ -388,3 +388,4 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-09-06 04:05 START final-docs   spawner=stack agent=afinal-docs-e65ae01c196b sess=5127ffde · 
 - 2026-09-06 04:05 START final-user   spawner=stack agent=afinal-user-a4201fa49312 sess=5127ffde · 
 - 2026-09-06 04:11 STOP  final-user   spawner=stack agent=afinal-user-a4201fa49312 sess=5127ffde · 6м · ok
+- 2026-09-06 04:13 STOP  final-docs   spawner=stack agent=afinal-docs-e65ae01c196b sess=5127ffde · 8м · ok
