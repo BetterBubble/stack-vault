@@ -1,7 +1,8 @@
 ---
 title: Как подключить телеграм к стеку — инструкция
 type: note
-status: draft
+status: archived
+superseded-by: "[[area-telegram]]"
 created: 2026-08-22 11:20
 updated: 2026-08-22 11:20
 permalink: stack/00-board/card-telegram-podklyuchenie-2026-08-22-1

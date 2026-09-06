@@ -382,3 +382,4 @@ START без STOP = воркер не вернулся; повисших пок�
 - 2026-09-06 03:00 STOP  workflow-subagent spawner=stack agent=a31580183414d5583 sess=5127ffde · 1м · ok
 - 2026-09-06 03:02 START verify-night-break spawner=stack agent=averify-night-break-d770 sess=5127ffde · 
 - 2026-09-06 03:03 START verify-night-gaps spawner=stack agent=averify-night-gaps-824d9 sess=5127ffde · 
+- 2026-09-06 03:09 STOP  verify-night-gaps spawner=stack agent=averify-night-gaps-824d9 sess=5127ffde · 6м · ok
