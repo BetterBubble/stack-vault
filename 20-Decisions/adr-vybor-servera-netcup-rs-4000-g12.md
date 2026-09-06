@@ -1,6 +1,6 @@
 ---
 title: "Решение — сервер под переезд стека: netcup RS 4000 G12"
-type: note
+type: decision
 status: current
 created: 2026-08-12 23:45
 updated: 2026-08-16 17:42
