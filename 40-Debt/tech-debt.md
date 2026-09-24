@@ -763,3 +763,6 @@ strongSwan на сервере (/etc/swanctl/conf.d/iva.conf) ЗАГЛУШЕН �
 
 Родственное: [[gate-check-sverjaetsja-s-zerkalom]] (та же природа — база гейта не совпадает с
 тем, от чего ветка на самом деле отошла), [[gate-check-ne-vidit-zhirnyy-aprov]].
+
+- **2026-09-23 · codex-task.sh clean не узнаёт живой worktree.** `clean feat/iva-dev-receiver-9 --by lead-aipaas-delivery --delete-branch` после `stop` → «/home/shulga/codex-work/feat__iva-dev-receiver-9 не worktree клона /home/shulga/repos/ai-paas — руками, не скриптом», хотя `git -C /home/shulga/repos/ai-paas worktree list` показывает его (31a65e6 [feat/iva-dev-receiver-9]). Повторный `run` с тем же id отказывает — обход новым именем ветки. Остаток на машине: worktree и ветка receiver-9 (пустые, 0 коммитов). Нашёл lead-aipaas-delivery.
+  - **Дополнение 23.09 вечер:** массово воспроизведено на 14 из 17 задач lead-aipaas-delivery (все — «не worktree клона», хотя `git worktree list` их знает); ещё 3 — `worktree remove` отказывает из-за изменённого `.serena/project.yml`, который Codex (Serena) меняет в каждом дереве. Следствие: деревья копятся, кэш Go упирается в порог диска, `run` отказывает («Кэш Go … 2.1 ГБ»). Обход: `gc-cache --older-than 60`. Нужны: починка проверки worktree в `clean` и `--force`-режим для `.serena/project.yml` (или игнор его в клоне).
